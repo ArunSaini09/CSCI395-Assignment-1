@@ -16,8 +16,9 @@ body{
     top:25vh;
     color:white;
     background-color: rgba(0.20, 0.20, 0.20, 0.5);
-    height:100px;
+    height:150px;
     border-radius: 10px;
+    padding: 5px;
 }
 
 .content{
